@@ -1,6 +1,6 @@
 # Application's Docker image creation
 
-While the cloud migration initiative is active at Nordlys, the developers across all teams must understand the application development process to a cloud infrastructure using self-created Docker images.
+While the cloud migration initiative is active at Nordlys, the developers across all teams must understand the application deployment process to a cloud infrastructure using self-created Docker images.
 
 ## Introduction
 
